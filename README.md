@@ -1,2 +1,2 @@
 # vectors
-Small exercises using vectors in C++
+Brief exercises using vectors in C++. Short comments to explain each section.
