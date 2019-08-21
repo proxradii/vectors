@@ -1,6 +1,5 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 /*  Exercises using vectors in C++:
-
     a)  Declare 2 empty vectors of integers named
     vector1 and vector 2, respectively.
     b)  Add 10 and 20 to vector1 dynamically using push_back
@@ -9,6 +8,7 @@
     Display the elements in vector2 using the at() method as well as its size using the size() method
     d)  Use the back() method. Get the value and the address of the last element of `vector `. 
 */
+/////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
 #include <vector>
